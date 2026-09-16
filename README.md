@@ -65,8 +65,6 @@ I enjoy building real-world web applications, developing backend systems, workin
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
-**Antigravity** 🚀
-
 ---
 
 ## 🧠 Computer Science
@@ -112,20 +110,6 @@ Working with **SQL and Neo4j** to design, query and manage application data.
 ### 🧠 DSA Solutions
 
 A collection of my solutions and practice across **LeetCode and other coding platforms**.
-
----
-
-# 📊 GitHub Stats
-
-![Gourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GouravKerni\&show_icons=true\&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GouravKerni\&layout=compact\&theme=transparent)
-
----
-
-# 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/GouravKerni/GouravKerni/output/github-contribution-grid-snake.svg)
 
 ---
 
